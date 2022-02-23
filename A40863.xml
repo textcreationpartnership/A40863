@@ -1,0 +1,172 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A famous victory obtained by the citisens [sic] of Coventry, and the Parliaments forces, under the command of the Lord Brooks, and colonell Hambden, against the Kings army, August 22 Read in the House of Commons upon Wednesday, being the 24. of August. Declaring the manner of the meeting of the two armies, the Parliaments forces slaying above 80. Cavaleers, with little losse, and taking captain Legge and others prisoners, with two pieces of ordnance, divers waggons, and great store of ammunition, putting the whole army of cavaleers to flight. Also the manner of His Majesties forces blowing open the gates, and how the city was preserved by throwing their houshold stuffe into the streets, to keep out the horse and divers of the Cavaleers being slaine thereby. Ordered that this be forthwith printed and published John. Brown. Cler. Parl.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40863</idno>
+            <idno type="STC">Wing F390A</idno>
+            <idno type="STC">ESTC R222648</idno>
+            <idno type="EEBO-CITATION">99833796</idno>
+            <idno type="PROQUEST">99833796</idno>
+            <idno type="VID">38274</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A40863)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 38274)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2206:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A famous victory obtained by the citisens [sic] of Coventry, and the Parliaments forces, under the command of the Lord Brooks, and colonell Hambden, against the Kings army, August 22 Read in the House of Commons upon Wednesday, being the 24. of August. Declaring the manner of the meeting of the two armies, the Parliaments forces slaying above 80. Cavaleers, with little losse, and taking captain Legge and others prisoners, with two pieces of ordnance, divers waggons, and great store of ammunition, putting the whole army of cavaleers to flight. Also the manner of His Majesties forces blowing open the gates, and how the city was preserved by throwing their houshold stuffe into the streets, to keep out the horse and divers of the Cavaleers being slaine thereby. Ordered that this be forthwith printed and published John. Brown. Cler. Parl.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. Wood,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>August 25. 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Plomer.</note>
+                  <note>Signatures: A⁴.</note>
+                  <note>Reproduction of the original in the Dr. Williams' Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:38274:1"/>
+            <pb facs="tcp:38274:1" rendition="simple:additions"/>
+            <p>A FAMOUS VICTORY OBTAINED <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y the Citiſens of <hi>Coventry,</hi> and the Parliaments Forces, under the Command of the Lord <hi>Brooks,</hi> and colonell <hi>Hambden,</hi> againſt the Kings Army, <hi>Auguſt</hi> 22. Read in the Houſe of <hi>Commons</hi> upon Wedneſday, <hi>being the</hi> 24. <hi>of Auguſt.</hi>
+            </p>
+            <p>Declaring the manner of the meeting of the two Armies, the Parliaments forces ſlaying above 80. Cava<g ref="char:EOLhyphen"/>leers, with little loſſe, and taking captain <hi>Legge</hi> and others <hi>priſoners, with two pieces of Ordnance, divers Waggons, and great ſtore of Ammunition, putting the whole Army of cavaleers to flight.</hi>
+            </p>
+            <p>Alſo the manner of His Majeſties forces blowing open the Gates, and how the city was preſerved by throwing their Houſhold ſtuffe into the ſtreets, to keep out the horſe and divers of the Cavaleers being ſlaine thereby.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>Ordered that this be forthwith printed and publiſhed</p>
+                        <closer>
+                           <signed>John. Brown. Cler. Parl.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>Printed for <hi>R. Wood, Auguſt</hi> 25. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:38274:2"/>
+            <pb facs="tcp:38274:2"/>
+            <head>A famous Victory obtained by the Trained Band of Coventry againſt the Cavaleers, August <hi>22.</hi>
+            </head>
+            <p>VPon Wedneſday the 24. of Auſtuſt, information was given to the ho<g ref="char:EOLhyphen"/>nourable Houſe of Commons, of all ſuch eminent paſſages that hath hap<g ref="char:EOLhyphen"/>pened ſince his Majeſty came to <hi>Coventry.</hi> viz. That on Saturday laſt about 9 of the clock in the morning, with an Army con<g ref="char:EOLunhyphen"/>ſiſting of about 17. or 1800. Horſe, his Ma<g ref="char:EOLhyphen"/>jeſty came to <hi>Coventry,</hi> which were [the only ſtrength of all his forces that came with him out of <hi>Yorkshire.</hi>
+            </p>
+            <p>And the Citiſens of Coventry having intelligence of drawing neer the ſaid Ci<g ref="char:EOLhyphen"/>ty with a great army, every man that bore arms in the city, together with a<g ref="char:EOLhyphen"/>bout 500. of the trained Bands of the
+<pb facs="tcp:38274:3"/>County preſently put themſelves into a poſture of defence, reſolving to ſpend their lives for the King and Parliament, and in maintenance of the Lawes of the Kingdom, Whereupon the Major and di<g ref="char:EOLhyphen"/>vers of the Aldermen and chief Comman<g ref="char:EOLhyphen"/>ders in the City, met his Majeſty at the Gates therof, and ſhewed their dutifull reſpect to His Majeſty, proffering their ſervice at His feet, expreſſing their earneſt deſire to acommodate His Majeſty in the maintaining of his juſt Rights and Pre<g ref="char:EOLhyphen"/>rogative, offering His Majeſty free enter<g ref="char:EOLhyphen"/>courſe into the City with a compleat Guard for the ſafety of His Royall Per<g ref="char:EOLhyphen"/>ſon. But he demanded entrance with His whole Army, and cauſed the Proclamati<g ref="char:EOLhyphen"/>on to be read, proclaiming them traytors that ſhould oppoſe him therin. But the Cavaleers being impatient of any delay, thinking to have had preſent admittance made preſently an attempt to enter the Gate, but quickly were driven back, and the Gate ſhut againſt them. At which his Maj. ſeethed to be very much moved, and
+<pb facs="tcp:38274:3"/>after ſome conſultation with his General and other Commanders, they planted ſix pieces of Ordnance againſt the Gate, and plaid upon it all that day, the Cavaleers thretning to fire the town, or beat it down about their ears, if it were not preſently rendred up. But the Citiſens hearing that ſome forces from the Parliament were repairing thither to aid and aſſiſt them were reſolved to ſtand it out, although they had not above 3. pieces of Ordnance in the town, and thoſe were unmounted This day being far ſpent, his Majeſty re<g ref="char:EOLhyphen"/>paired to a Knights houſe neer <hi>Dunſmore</hi> about 4. miles from <hi>Coventry,</hi> and on Son<g ref="char:EOLhyphen"/>day morning the Cavaleers began againe to play upon the Gates of the citty, and drove open the South-Gate thereof, and began to march into the city, not doub<g ref="char:EOLhyphen"/>ting but to make a prey therof, thinking it impoſſible to be withſtood; yet wee may ſee Gods wonderfull hand of pro<g ref="char:EOLhyphen"/>vidence towards us in ſtirring up the ſouldiers within the city with ſuch cou<g ref="char:EOLhyphen"/>rage, and true affection to the <hi>Parliament,</hi>
+               <pb facs="tcp:38274:4"/>That at the firſt entrance of the cavaleers into the Gate they welcommed them with ſuch a voley of ſhot, that 7. of them were ſlain, and many more of them hurt, wherupon they were forced to retreat, &amp; the women and others that were unfit to fight, brought a bundance of houſhold ſtuffe, as tables, ſtools, and other lumber, and threw them in the ſtreet, which quick<g ref="char:EOLhyphen"/>ly made the way unpaſſable, ſo that the horſemen durſt not ſally any more into the town, but played upon it with Canon and ſometimes came riding up to the walls therof.</p>
+            <p>The L. <hi>Brooks,</hi> Col. <hi>Hollis,</hi> Col. <hi>Hambden,</hi> Col. <hi>Fines,</hi> and Col. <hi>Goodwyn,</hi> with their Regiments, both of horſe and foot. having intelligence hereof (being at <hi>Banhury</hi>) marched towards Coventry with all ſpeed, and the Kings Army fearing that they would fall on the backs of them, preſently raiſed their for<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es from againſt Coventry, carrying their Ordnance with them, and came to meet the Parliaments Forces, which met on Monday laſt about
+<pb facs="tcp:38274:4"/>8. of the clocg in the morning uprn Dunſmore Heath, about 4. miles on this ſide Coventry, which when Col. <hi>Hambden</hi> and the reſt of the commanders percei<g ref="char:EOLhyphen"/>ved, they divided the army (conſiſting of about 6. or 7000. horſe and foot) into 4. ſquadrons, placing 3. pieces of Ordnance on the right wing, and 3. pieces on the left wing, the Cavaleers with their troops of horſe falling on them very furiouſly, and the other ſide defended themſelves as ſtoutly, but in a very ſhort time (the ord<g ref="char:EOLhyphen"/>nance of the Parliament forces playing ſo hot on them) ſcaled their Horſe, and put them in ſuch a combuſtion, that ſcarce a man of them knew how to keep their rancks, and being in an exceeding great confuſion, there was ſlaine of the Cava<g ref="char:EOLhyphen"/>leers about 80. men, 9. of them being thoſe that guarded the Kings perſon, capt. <hi>Legg</hi> and many others being taken priſoners, alſo two pieces of their Ordnance were taken, with ſome waggons and ammuni<g ref="char:EOLhyphen"/>tion; and thus being rooted with the loſſe of very few of the Parliaments ſide,
+<pb facs="tcp:38274:5"/>they all diſpierced themſelves, and ſo fled for their lives.</p>
+            <p>And although his Majeſty at the raiſing of his Army from before Coventry gave them 3. dayes Reſpit for the Rendring it up; yet it is thought the Cavaleers will ſcarce come againe to demand it, for as yet it is not certainly known which way they are gone, many of them being lately fled from Warwick, and it is Reported by ſome that come out of thoſe parts, that the Earle of Northampton will fly away before the Parliament Forces come thither, although they are not above ſixe miles from Warwick.</p>
+            <p>The Sheriffe being Summoned to Raiſe the power of the County to aid and aſſiſt his Majeſty appeared not therein, neither came any of that County in to him. But the Country were excee<g ref="char:EOLhyphen"/>dingly terriſied with fear of the Cavaleers, which Ride about pillaging the Country, and are under no Co<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mand; but the Parliament Forces do dai<g ref="char:EOLhyphen"/>ly encreaſe, and eſpecially in VVarwickſhire, who are in great hopes ſuddenly to ſuppreſſe the Rage of the Diſturbers of their peace.</p>
+         </div>
+      </body>
+      <back>
+         <div type="order_to_print">
+            <p>Ordered by the Lords and Commons, That this be printed and publiſhed.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>John Brown Cler. Parliament.</item>
+                     <item>Hen. Elſing Cler. Par. D. Com.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+      </back>
+   </text>
+</TEI>
